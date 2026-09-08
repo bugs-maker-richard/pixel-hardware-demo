@@ -1,3 +1,4 @@
 .header-actions,.modal-tools{display:flex;align-items:center;gap:18px}.language-toggle{min-width:46px;padding:7px 10px;border:1px solid var(--line);border-radius:20px;background:#fff;color:var(--green);font-size:12px;font-weight:750;letter-spacing:.7px}.language-toggle:hover{border-color:var(--green);background:#f0f4e9}.language-toggle[aria-pressed="true"]{background:var(--green);color:#fff;border-color:var(--green)}.modal-tools{gap:10px}
+.legal-body p+p{margin-top:10px}.legal-body p strong{color:var(--ink)}
 @media(max-width:760px){.header-actions{margin-left:auto;gap:12px}.language-toggle{min-width:42px;padding:6px 8px}}
 
